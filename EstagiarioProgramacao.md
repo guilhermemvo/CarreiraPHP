@@ -6,17 +6,15 @@ O estagiário tem como responsabilidade a busca de aprendizado e experiência pr
 
 ##Requisitos
 
-~~- Conceitos básicos de lógica de programação;~~
-~~- Conceitos básicos de HTML;~~
+- ~~Conceitos básicos de lógica de programação;~~
+- ~~Conceitos básicos de HTML;~~
 
 #Desejável
 
-~~- Conhecimentos básicos da sintaxe PHP;~~
+- ~~Conhecimentos básicos da sintaxe PHP;~~
 
 #Perfil esperado
 
-~~- Sedento por conhecimento ao extremo (sempre pesquisando e perguntando);~~
-
-~~- Bom relacionamento com os colegas;~~
-
-~~- Boa comunicação oral e escrita;~~
+- ~~Sedento por conhecimento ao extremo (sempre pesquisando e perguntando);~~
+- ~~Bom relacionamento com os colegas;~~
+- ~~Boa comunicação oral e escrita;~~
