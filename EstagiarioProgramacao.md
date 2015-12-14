@@ -2,7 +2,7 @@
 
 ##Responsabilidades
 
-O estagiário tem como responsabilidade a busca de aprendizado e experiência prática.
+~~O estagiário tem como responsabilidade a busca de aprendizado e experiência prática.~~
 
 ##Requisitos
 
