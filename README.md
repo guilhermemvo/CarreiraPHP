@@ -6,6 +6,6 @@ CarreiraPHP
 Sugestões de descrição de carreiras e cargos
 
 - ~~[Estagiário](EstagiarioProgramacao.md)~~
-- ~~[Programador Junior](ProgramadorJunior.md)~~ [Andamento]
-- [Programador Pleno](ProgramadorPleno.md) [Atualizado]
-- [Programador Senior](ProgramadorSenior.md) [Atualizado]
+- ~~[Programador Junior](ProgramadorJunior.md)~~
+- [Programador Pleno](ProgramadorPleno.md) [Andamento]
+- [Programador Senior](ProgramadorSenior.md) [Atualizado ~2015]
