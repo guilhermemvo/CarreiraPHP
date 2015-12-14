@@ -20,7 +20,7 @@ content­type, encoding, etc).
 	- ~~Criação de queries complexas (subqueries)~~
 - Conhecimento intermediário sobre sistemas operacionais (processos, redes, estruturas de diretórios e configurações básicas) e linha de comando. Comandos como ~~`ps`, `kill`, `ifconfig`,~~ `nmap`, `hostname`, `find`, ~~`grep`,~~ `>`, `>>`, ~~`|`, `&`, `su`, `sudo`, `wget`,~~ `crontab`;
 - Conhecimento básico de segurança e criptografia de dados
-	- SSL;
+	- ~~SSL;~~
 	- ~~Geração de hash utilizando salt (HMAC);~~
 	- Algoritmos de criptografia (DES, 3DES, etc).
 - ~~Codificar a segurança da aplicação de acordo com as especificações fornecidas por especialistas em segurança de TI.~~
