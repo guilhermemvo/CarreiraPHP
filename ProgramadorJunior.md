@@ -16,8 +16,8 @@ Seu foco de atuação é no desenvolvimento de cada unidade de um software, e pa
 	- ~~Estrutura semântica dos componentes usando o HTML;~~
 	- ~~Estilização dos componentes usando CSS;~~
 	- ~~Comportamentos dos componentes utilizando JS não obstrusivo;~~
-- Entendimento básico do protocolo HTTP (RFC 2616)
-	- Criação de URIs semânticas;
+- ~~Entendimento básico do protocolo HTTP (RFC 2616)~~
+	- ~~Criação de URIs semânticas;~~
 - ~~Configurações básicas do PHP (diretivas no php.ini) ○ memory_limit;~~
 	- ~~display_errors;~~
 	- ~~error_reporting;~~
