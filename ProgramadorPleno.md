@@ -18,7 +18,7 @@ content­type, encoding, etc).
 	- Gerenciamento de permissões;
 	- ~~Modelagem de dados, planejando os schemas para ter utilização otimizada dos tipos de colunas;~~
 	- ~~Criação de queries complexas (subqueries)~~
-- Conhecimento intermediário sobre sistemas operacionais (processos, redes, estruturas de diretórios e configurações básicas) e linha de comando. Comandos como `ps`, `kill`, `ifconfig`, `nmap`, `hostname`, `find`, `grep`, `>`, `>>`, `|`, `&`, `su`, `sudo`, `wget`, `crontab`;
+- Conhecimento intermediário sobre sistemas operacionais (processos, redes, estruturas de diretórios e configurações básicas) e linha de comando. Comandos como ~~`ps`, `kill`, `ifconfig`,~~ `nmap`, `hostname`, `find`, ~~`grep`,~~ `>`, `>>`, ~~`|`, `&`, `su`, `sudo`, `wget`,~~ `crontab`;
 - Conhecimento básico de segurança e criptografia de dados
 	- SSL;
 	- ~~Geração de hash utilizando salt (HMAC);~~
